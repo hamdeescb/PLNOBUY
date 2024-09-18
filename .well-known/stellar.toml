@@ -1,0 +1,14 @@
+# ข้อมูลเกี่ยวกับองค์กร
+ORG_NAME = "private liquidity"
+ORG_DBA = "PLNOBUY"
+ORG_URL = "http://privateliquidity.com/"
+ORG_LOGO = "https://img5.pic.in.th/file/secure-sv1/fa372538-6178-45c4-ab50-5cfc95bdef16.webp"
+ORG_DESCRIPTION = "private liquidity"
+ORG_PHYSICAL_ADDRESS = "123 Blockchain Street, BKK"
+ORG_PHONE_NUMBER = "+66834567890"
+ORG_KEYBASE = "PLNOBUY"
+
+# สกุลเงินที่ออกโดยองค์กร
+[[CURRENCIES]]
+code = "PLNOBUY"  
+issuer = "GC2677YMK7VY6E7YVXDPVK7YMILLYDXUMZJKP6DZ2NB7J4QXP4ZPQETO"
